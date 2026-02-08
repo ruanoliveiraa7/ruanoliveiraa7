@@ -19,12 +19,12 @@
 <!-- Subtítulo -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&fade=true&repeat=true&lines=✦+Estudante+de+Desenvolvimento+de+Sistemas+✦;✦+SENAI+Anchieta+✦" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&fade=true&repeat=true&lines=✦+Estudante+de+Desenvolvimento+de+Sistemas+✦;✦+Cursando+formação+técnica+✦" 
   />
 </p>
 
-Sou estudante de **Desenvolvimento de Sistemas** pelo **SENAI Anchieta**, focado em construir uma base sólida em programação, lógica e boas práticas.  
-Acredito na **evolução diária**, sem atalhos, através de estudo contínuo e projetos práticos.
+Sou estudante de **Desenvolvimento de Sistemas**, atualmente **cursando formação técnica no SENAI Anchieta**, com foco em construir uma base sólida em programação, lógica e boas práticas.  
+Acredito na **evolução diária**, sem atalhos, por meio de estudo contínuo e projetos práticos.
 
 ---
 
@@ -35,10 +35,10 @@ Acredito na **evolução diária**, sem atalhos, através de estudo contínuo e 
   />
 </p>
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI Anchieta.**  
-- 🧠 Em constante aprendizado de **lógica de programação e fundamentos.**  
-- 🛠️ Evoluindo por meio de **projetos práticos.**  
-- 🚀 Interesse em crescimento profissional na área de tecnologia. 
+- 🎓 **Cursando** Desenvolvimento de Sistemas (formação técnica).  
+- 🧠 Em constante aprendizado de **lógica de programação e fundamentos**.  
+- 🛠️ Evoluindo por meio de **projetos práticos**.  
+- 🚀 Interesse em crescimento profissional na área de tecnologia.  
 - 📚 Disciplina, consistência e aprendizado contínuo.  
 
 ---
@@ -50,7 +50,6 @@ Acredito na **evolução diária**, sem atalhos, através de estudo contínuo e 
   />
 </p>
 
-<!-- Ícones de contato na lateral esquerda -->
 <div align="left">
   <a href="https://www.instagram.com/r.carpevitta" target="_blank">
     <img 
@@ -71,8 +70,10 @@ Acredito na **evolução diária**, sem atalhos, através de estudo contínuo e 
 
 ---
 
+<!-- Agradecimento -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=500&fade=true&repeat=true&lines=🖤+Obrigado+por+visitar+meu+perfil!;Evolução+constante+🚀" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&fade=true&repeat=true&lines=Obrigado+por+visitar+meu+perfil!;Em+constante+evolução+🚀" 
   />
 </p>
+
