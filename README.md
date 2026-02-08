@@ -19,9 +19,10 @@
 <!-- Subtítulo -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&fade=true&repeat=true&lines=✦+Estudante+de+Desenvolvimento+de+Sistemas+✦;✦+Cursando+formação+técnica+✦" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&fade=true&repeat=true&lines=Estudante+de+Desenvolvimento+de+Sistemas;SENAI+Anchieta" 
   />
 </p>
+
 
 Sou estudante de **Desenvolvimento de Sistemas**, atualmente **cursando formação técnica no SENAI Anchieta**, com foco em construir uma base sólida em programação, lógica e boas práticas.  
 Acredito na **evolução diária**, sem atalhos, por meio de estudo contínuo e projetos práticos.
