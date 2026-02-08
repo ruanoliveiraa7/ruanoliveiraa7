@@ -1,11 +1,11 @@
 <h2 style="color: black;">
-🤖 Transformando ideias em código.<br>
+🎯Daily Progress, No Shortcuts..<br>
 
 </h2>
 
 
   
-🎯Evolução diária, sem atalhos.
+🤖 Transformando ideias em código.
 
 ###
 <div>
