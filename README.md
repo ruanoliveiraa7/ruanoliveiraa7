@@ -19,11 +19,11 @@
 <!-- Subtítulo -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&fade=true&repeat=true&lines=✦+Estudante+de+Desenvolvimento+de+Software+✦;✦+SENAI+Anchieta+✦" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&fade=true&repeat=true&lines=✦+Estudante+de+Desenvolvimento+de+Sistemas+✦;✦+SENAI+Anchieta+✦" 
   />
 </p>
 
-Sou estudante de **Desenvolvimento de Software** pelo **SENAI Anchieta**, focado em construir uma base sólida em programação, lógica e boas práticas.  
+Sou estudante de **Desenvolvimento de Sistemas** pelo **SENAI Anchieta**, focado em construir uma base sólida em programação, lógica e boas práticas.  
 Acredito na **evolução diária**, sem atalhos, através de estudo contínuo e projetos práticos.
 
 ---
@@ -35,7 +35,7 @@ Acredito na **evolução diária**, sem atalhos, através de estudo contínuo e 
   />
 </p>
 
-- 🎓 Estudante de **Desenvolvimento de Software** no **SENAI Anchieta**  
+- 🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI Anchieta**  
 - 🧠 Em constante aprendizado de **lógica de programação e fundamentos**  
 - 🛠️ Evoluindo por meio de **projetos práticos**  
 - 🚀 Interesse em crescimento profissional na área de tecnologia  
