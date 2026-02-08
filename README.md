@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://share.google/dR9BFZZ573xtXK9Gd"  />
 
 ###
 
@@ -21,6 +21,5 @@
 
 <br clear="both">
 
-<img src="https://share.google/dR9BFZZ573xtXK9Gd" alt="Snake animation" />
 
 ###
