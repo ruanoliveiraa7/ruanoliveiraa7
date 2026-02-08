@@ -1,4 +1,8 @@
-<h2 align="left">🤖Transformando ideias em código.
+<h2 style="color: black;">
+🤖 Transformando ideias em código.<br>
+
+</h2>
+
 
   
 🎯Evolução diária, sem atalhos.
