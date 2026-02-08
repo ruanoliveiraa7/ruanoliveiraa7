@@ -35,11 +35,11 @@ Acredito na **evolução diária**, sem atalhos, através de estudo contínuo e 
   />
 </p>
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI Anchieta**  
-- 🧠 Em constante aprendizado de **lógica de programação e fundamentos**  
-- 🛠️ Evoluindo por meio de **projetos práticos**  
-- 🚀 Interesse em crescimento profissional na área de tecnologia  
-- 📚 Disciplina, consistência e aprendizado contínuo  
+- 🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI Anchieta.**  
+- 🧠 Em constante aprendizado de **lógica de programação e fundamentos.**  
+- 🛠️ Evoluindo por meio de **projetos práticos.**  
+- 🚀 Interesse em crescimento profissional na área de tecnologia. 
+- 📚 Disciplina, consistência e aprendizado contínuo.  
 
 ---
 
