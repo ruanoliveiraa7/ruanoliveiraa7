@@ -19,7 +19,7 @@
 <!-- Subtítulo -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&fade=true&repeat=true&lines=Estudante+de+Desenvolvimento+de+Sistemas;SENAI+Anchieta" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&fade=true&repeat=true&lines=Estudante+de+Desenvolvimento+de+Sistemas;Senai+Anchieta" 
   />
 </p>
 
