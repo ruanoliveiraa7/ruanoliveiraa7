@@ -19,6 +19,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
