@@ -1,31 +1,78 @@
-<h2 style="color: black;">
-🎯Daily Progress, No Shortcuts..<br>
+<!-- Avatar / Foto -->
+<p align="center">
+  <img 
+    src="./foto-perfil.png" 
+    width="200" 
+    height="200" 
+    style="border-radius:50%;" 
+    alt="Foto de Ruan" 
+  />
+</p>
 
-</h2>
+<!-- Título -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&lines=✧+Olá!+Eu+sou+Ruan+✧" 
+  />
+</p>
 
+<!-- Subtítulo -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&fade=true&repeat=true&lines=✦+Estudante+de+Desenvolvimento+de+Software+✦;✦+SENAI+Anchieta+✦" 
+  />
+</p>
 
-  
-🤖 Transformando ideias em código.
+Sou estudante de **Desenvolvimento de Software** pelo **SENAI Anchieta**, focado em construir uma base sólida em programação, lógica e boas práticas.  
+Acredito na **evolução diária**, sem atalhos, através de estudo contínuo e projetos práticos.
 
-###
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
-</div>
+---
 
-<!-- GIF THOMAS SHELBY -->
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA0endzc2pmYW0wdnkyNXlrdWQ2MGY0cWk5eWc0ZGtwd2xhYThkNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/X3Zr6miqq2KuQ/giphy.gif" />
+<!-- Sobre mim -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&lines=✯+Sobre+mim+✯" 
+  />
+</p>
 
-###
+- 🎓 Estudante de **Desenvolvimento de Software** no **SENAI Anchieta**  
+- 🧠 Em constante aprendizado de **lógica de programação e fundamentos**  
+- 🛠️ Evoluindo por meio de **projetos práticos**  
+- 🚀 Interesse em crescimento profissional na área de tecnologia  
+- 📚 Disciplina, consistência e aprendizado contínuo  
 
-<!-- REDES SOCIAIS / CONTATO -->
+---
+
+<!-- Contato -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&lines=📫+Contato" 
+  />
+</p>
+
+<!-- Ícones de contato na lateral esquerda -->
 <div align="left">
-  <a href="https://www.instagram.com/r.carpevitta?igsh=MWJuczU3b242cnp5Mg==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <a href="https://www.instagram.com/r.carpevitta" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"
+      height="35"
+      alt="Instagram"
+    />
   </a>
-
-  <a href="mailto:ruan777k@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <br><br>
+  <a href="mailto:ruan777k@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"
+      height="35"
+      alt="Gmail"
+    />
   </a>
 </div>
 
-###
+---
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=500&fade=true&repeat=true&lines=🖤+Obrigado+por+visitar+meu+perfil!;Evolução+constante+🚀" 
+  />
+</p>
