@@ -74,7 +74,7 @@ Acredito na **evolução diária**, sem atalhos, por meio de estudo contínuo e 
 <!-- Agradecimento -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&fade=true&repeat=true&lines=👨🏻‍💻Obrigado+por+visitar+meu+perfil!;Em+constante+evolução!🚀" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&fade=true&repeat=true&lines=👨🏻‍💻Obrigado+por+visitar+meu+perfil!;🚀Em+constante+evolução!" 
   />
 </p>
 
