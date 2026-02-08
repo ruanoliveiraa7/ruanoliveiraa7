@@ -1,4 +1,7 @@
-<h2 align="left">👋🏼 Seja bem vindo! 
+<h2 align="left">🤖Transformando ideias em código.
+
+  
+🎯Evolução diária, sem atalhos.
 
 ###
 
